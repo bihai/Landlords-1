@@ -26,6 +26,7 @@ public class ClientMainUI {
 		}
 		System.out.println();
 		System.out.println();
+		System.out.println("abc");
 
 		List<Card> listB = (List<Card>) map.get("listB");
 		for (int i = 0; i < listB.size(); i++) {
